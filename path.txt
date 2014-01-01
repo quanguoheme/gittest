@@ -1,1 +1,2 @@
 %SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbemd:
+d:
